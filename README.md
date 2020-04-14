@@ -1,2 +1,2 @@
-# Boston_Housing_Pricce
-Boston_Housing_Pricce
+# Boston_Housing_Price
+Boston_Housing_Price
